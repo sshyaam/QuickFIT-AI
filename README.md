@@ -38,3 +38,4 @@ Once deletion is complete, data cannot be restored.
 Email **oslab6099@gmail.com**.
 
 ## Privacy Policy
+https://www.termsfeed.com/live/1c5336ff-a937-4d18-9599-6552a1ee43a6
