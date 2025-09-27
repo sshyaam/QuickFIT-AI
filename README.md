@@ -1,5 +1,9 @@
 # QuickFIT-AI
 
+# If you're looking to install the application, it is currently on Closed Testing. You can install it on the playstore as a tester by:
+Joining the group: https://groups.google.com/g/quickfitai
+Installing the application: https://play.google.com/store/apps/details?id=com.Shyaams.QuickFitAI
+
 # Request account & data deletion — QuickFitAI
 
 **Developer:** Shyaam S
