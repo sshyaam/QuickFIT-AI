@@ -1,21 +1,19 @@
 # QuickFIT-AI
+#QuickFit AI is not open source anymore.
 
-# If you're looking to install the application, it is currently on Closed Testing. You can install it on the playstore as a tester by:
-Joining the group: https://groups.google.com/g/quickfitai
-
-Installing the application: https://play.google.com/store/apps/details?id=com.Shyaams.QuickFitAI
+# If you're looking to install the application, You can install it on the playstore:
+[https://play.google.com/store/apps/details?id=com.Shyaams.QuickFitAI](https://play.google.com/store/apps/details?id=com.Shyaams.QuickFitAI&hl=en_IN)
 
 # Request account & data deletion — QuickFitAI
-
 **Developer:** Shyaam S
-**Contact:** oslab6099@gmail.com
+Feel free to delete your account when required by visiting the bottom of the profile section on the application.
 
 ## Who can request deletion?
 Any user with a QuickFitAI account.
 
 ## How to request deletion
 1. **In-app:** Profile → Settings → “Delete my account”.  
-2. **Email:** Send a message to **oslab6099@gmail.com** from the email tied to your account with subject **“Delete my QuickFitAI account”**.
+2. **Email:** Send a message from the email tied to your account with subject **“Delete my QuickFitAI account”**.
 
 We will confirm the request within **7 days** and complete deletion within **30 days** (often much sooner).
 Deletion through the application is instant!
@@ -38,9 +36,6 @@ Backups are overwritten on rotation; deleted data is removed from active systems
 
 ## Reversing deletion
 Once deletion is complete, data cannot be restored.
-
-## Questions
-Email **oslab6099@gmail.com**.
 
 ## Privacy Policy
 https://www.termsfeed.com/live/1c5336ff-a937-4d18-9599-6552a1ee43a6
